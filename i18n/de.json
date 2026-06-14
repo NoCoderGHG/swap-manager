@@ -85,5 +85,7 @@
   "confirm_deactivate": "Swapfile deaktivieren?\n{path}",
   "confirm_deactivate_all": "Wirklich ALLE Swapfiles deaktivieren?",
   "confirm_delete": "Swapfile deaktivieren und löschen?\n{path}",
-  "resize_warning": "⚠ Das Swapfile wird deaktiviert, neu angelegt und wieder aktiviert. Vorhandene Daten gehen verloren."
+  "resize_warning": "⚠ Das Swapfile wird deaktiviert, neu angelegt und wieder aktiviert. Vorhandene Daten gehen verloren.",
+  "tooltip_about": "Über SWAP File Manager",
+  "about_comments": "Swap-Dateien und Swappiness verwalten.\n\nTeil der GTK3-Toolbox (NoCoderGHG)."
 }

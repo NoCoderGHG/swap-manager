@@ -85,5 +85,7 @@
   "confirm_deactivate": "Deactivate swapfile?\n{path}",
   "confirm_deactivate_all": "Really deactivate ALL swapfiles?",
   "confirm_delete": "Deactivate and delete swapfile?\n{path}",
-  "resize_warning": "⚠ The swapfile will be deactivated, recreated and reactivated. Existing data will be lost."
+  "resize_warning": "⚠ The swapfile will be deactivated, recreated and reactivated. Existing data will be lost.",
+  "tooltip_about": "About SWAP File Manager",
+  "about_comments": "Manage swap files and swappiness.\n\nPart of the GTK3 Toolbox (NoCoderGHG)."
 }
